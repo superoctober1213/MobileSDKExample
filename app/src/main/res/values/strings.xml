@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MobileSDKExample</string>
+    <string name="Open_btn_str">打开端口</string>
+    <string name="Close_btn_str">关闭端口</string>
+    <string name="Card_opera_str">卡操作</string>
+    <string name="Device_opera_str">设备操作</string>
+    <string name="Contact_cpu_btn_str">接触式CPU卡</string>
+    <string name="Contactless_cpu_btn_str">非接CPU卡</string>
+    <string name="M1_card_btn_str">M1卡</string>
+    <string name="Ultralight_card_btn_str">Ultralight卡</string>
+    <string name="Card_4428_btn_str">4428卡</string>
+    <string name="Card_4442_btn_str">4442卡</string>
+    <string name="Card_102_btn_str">102卡</string>
+    <string name="mag_card_btn_str">磁条卡</string>
+    <string name="ID_card_btn_str">身份证</string>
+    <string name="SS_card_btn_str">社保卡</string>
+    <string name="Scan_2D_btn_str">二维码</string>
+    <string name="Print_picture_btn_str">图片打印</string>
+    <string name="Fm11rf005_card_btn_str">Fm11rf005卡</string>
+</resources>
